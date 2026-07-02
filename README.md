@@ -152,14 +152,6 @@ cd frontend && npm run lint                        # ESLint（TypeScript）
 cd frontend && npm run build                       # tsc 型別檢查 + Vite 建置
 ```
 
-## 前端畫面示意圖
-
-### 筆記列表
-<img width="1453" height="815" alt="截圖 2026-06-17 上午10 25 39" src="https://github.com/user-attachments/assets/91bfa32e-a63f-42b0-8dd9-093d09d181db" />
-
-### 新增筆記
-<img width="1601" height="935" alt="截圖 2026-06-17 上午10 26 58" src="https://github.com/user-attachments/assets/da56deaa-195a-42c4-9c91-121e8ebc9576" />
-
 ## 版權聲明
 
 此專案僅供個人學習與紀錄使用，無授權任何學習教材用途與商業用途。

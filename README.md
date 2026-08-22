@@ -25,6 +25,28 @@
 * 系統架構設計規劃
 * README 文件優化
 
+## 前端頁面示意
+
+### 首頁
+
+<img width="2561" height="1919" alt="FireShot Capture 060 - frontend -  localhost" src="https://github.com/user-attachments/assets/3834652d-a8ed-4ebf-bc63-09e9a8616edd" />
+
+### 新增筆記
+
+<img width="2561" height="1208" alt="FireShot Capture 068 - frontend -  localhost" src="https://github.com/user-attachments/assets/d5630f6c-1bd9-4314-b310-05938e34e6ee" />
+
+### 編輯筆記
+
+<img width="2561" height="1155" alt="FireShot Capture 067 - frontend -  localhost" src="https://github.com/user-attachments/assets/954d3281-6483-401f-acae-96db161bfafe" />
+
+### Django 後台管理
+
+<img width="2561" height="1160" alt="FireShot Capture 062 - 選擇 note 來修改 - Django 網站管理 -  127 0 0 1" src="https://github.com/user-attachments/assets/506a48c1-b3b5-494a-a9ff-e4fe86c43665" />
+
+### Django REST framework
+
+<img width="2561" height="1155" alt="FireShot Capture 064 - Api Root – Django REST framework -  127 0 0 1" src="https://github.com/user-attachments/assets/7543602f-1e5d-42e6-9f70-f15c69be9d3b" />
+
 ## 技術架構
 
 ### Frontend
